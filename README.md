@@ -21,3 +21,10 @@ We can either load dataset from scikit_learn or else download the dataset on pc.
    ### Data Insights
 **Finally, the accuracy is 1.00 as dataset is very small and Decision trees are powerful,
 it is simple for the model to break down into patterns and it easily learns these patterns and classifies even the unseen data with a 100% accuracy.**
+
+
+
+
+
+
+## Author - Ravi Aishwarya
